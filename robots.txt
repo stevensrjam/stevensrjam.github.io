@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevensrjam.github.io/Website/sitemap.xml
+Sitemap: https://stevensrjam.github.io/Website/sitemap.txt
